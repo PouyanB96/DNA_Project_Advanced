@@ -22,3 +22,6 @@ pip install pandas biopython matplotlib
 ##  Output
 - Table of nucleotide counts and GC% per sequence  
 - Bar chart of GC content
+## Example Output
+
+![GC Content Plot](result.png)
